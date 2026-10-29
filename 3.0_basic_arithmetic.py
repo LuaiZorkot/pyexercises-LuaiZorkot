@@ -40,3 +40,11 @@ print("The number 2 is:", number_2)
 #addition of two numbera
 sum = number_1 + number_2
 print("The sum of two numbers is:", sum)
+
+# difference of two numbers
+diff = number_2 - number_1
+print("The difference of two numbers is:", diff)
+
+# product of two numbers
+prod = number_1 * number_2
+print("The product of two numbers is:", product)
