@@ -24,10 +24,16 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. My four transformations, and when each is useful:
+# 1. In: Sentence typed by user (a string)
+# 2. Process: four different methods to a sentence applied
+# 3. Out: four different versions of the same sentence
+# 4. My four transformations, and when each is useful
+# - Upper Case (sentence to grab attention)
+# - Lower Case (Normal Sentence)
+# - Without Extra Spaces(Use as minimum of characters as possible)
+# - Swapped Case (No real use)
+
+
 
 
 # Your code below
