@@ -45,3 +45,36 @@ print("You entered:", user_number)
 ```
 
 What does the `input()` function always return?
+
+
+---
+## 2026-10-29 16:47, in .
+
+**Me:** how to write a sentence with python
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-29 16:48, in .
+
+**Me:** how to write an uppercase sentence in python
+
+**Tutor:**
+
+Concept: Changing the case of a string to uppercase.
+
+Pattern:
+```python
+# TODO: Define a sentence
+sentence = "this is a test"
+
+# TODO: Convert to uppercase
+upper_sentence = sentence.upper()
+
+print(upper_sentence)
+```
+
+Question: Which string method converts a string to uppercase?
+Note from Luai: Struggled to write the code regarding the "without extra space" since I didn't know that I should add strip to it.
