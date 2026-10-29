@@ -20,3 +20,20 @@ print("Cost per click:", 2.50, "EUR")
 ```
 
 What does the `print()` function always return?
+
+---
+## 2026-10-29 09:36, in .
+
+**Me:** give an example for printing 5 times in python
+
+**Tutor:**
+
+Printing something multiple times can be done with a loop.
+
+```python
+for _ in range(5):
+    print("Hello")
+    # TODO: Replace "Hello" with the text you want to print
+```
+
+What loop construct are you using here?
