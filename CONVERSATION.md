@@ -37,3 +37,32 @@ for _ in range(5):
 ```
 
 What loop construct are you using here?
+
+---
+## 2026-10-29 11:17, in .
+
+**Me:** what is the input fo
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-29 11:21, in .
+
+**Me:** how to remove item from dictionary
+
+**Tutor:**
+
+Concept: Removing an item from a dictionary by its key.
+
+Pattern:
+```python
+# Create a toy dictionary
+toy_dict = {"apple": 3, "banana": 5, "cherry": 2}
+
+# TODO: Remove the item with key "banana"
+# TODO: Print the updated dictionary
+```
+
+Question: Which dictionary method removes an item by its key?
