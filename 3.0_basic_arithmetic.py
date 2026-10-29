@@ -24,10 +24,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. What happens when the second number is zero, and why:
+# 1. In: Adding number 1 and 2
+# 2. Process: Arithmetic calculations using number 1 and 2
+# 3. Out: results of arithmetic calculations
+# 4. What happens when the second number is zero, and why: using if else function, we can get out a result of zero.
 
 
 # Your code below
