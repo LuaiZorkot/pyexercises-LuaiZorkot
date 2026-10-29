@@ -47,4 +47,11 @@ print("The difference of two numbers is:", diff)
 
 # product of two numbers
 prod = number_1 * number_2
-print("The product of two numbers is:", product)
+print("The product of two numbers is:", prod)
+
+#division of two numbers
+if number_2 != 0:
+    div = number_1 / number_2
+    print("The division of two numbers is:", div)
+else:
+    print("The second number is 0")
