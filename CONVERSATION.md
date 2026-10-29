@@ -140,3 +140,65 @@ Refused, off topic.
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-10-29 17:10, in .
+
+**Me:** how to determine if number is odd or even with oython
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-29 17:12, in .
+
+**Me:** how to decide which numbers to check with python
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-29 17:12, in .
+
+**Me:** how to list numbers with python
+
+**Tutor:**
+
+Listing numbers in Python can be done with a simple loop or a list comprehension.
+
+Pattern to list numbers from 0 to 4:
+```python
+# TODO: replace `range(5)` with the correct arguments to list numbers 1 to 5
+numbers = list(range(____, ____))
+print(numbers)
+```
+
+What is the correct range to get `[1, 2, 3, 4, 5]`?
+
+---
+## 2026-10-29 17:14, in .
+
+**Me:** how do I use elif function with python
+
+**Tutor:**
+
+Conditional branching with `elif`.
+
+```python
+def grade(score):
+    if score >= 90:
+        return "A"
+    elif score >= 80:
+        return "B"
+    elif score >= 70:
+        return "C"
+    else:
+        return "F"
+
+# TODO: call grade(85) and print the result
+```
+
+What does the first `elif` line check?
+Note from luai: if the number was 5000 writing 5000 lines would be a nightmare for the program. I capped it at 100. Also if a negative number is given, i found a small struggle to program how to determine negative numbers. I found the solution by programing it to count negative numbers like positive ones. So from 0 to -100 counting zero as an even number.
