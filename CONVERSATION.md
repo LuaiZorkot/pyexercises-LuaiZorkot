@@ -66,3 +66,51 @@ toy_dict = {"apple": 3, "banana": 5, "cherry": 2}
 ```
 
 Question: Which dictionary method removes an item by its key?
+
+---
+## 2026-10-29 11:23, in .
+
+**Me:** what is the variable for a user input
+
+**Tutor:**
+
+A variable that stores what a user types is created by calling the built-in function `input()`.
+
+```python
+# TODO: store the user's answer in a variable
+user_response = input("Enter your answer here: ")
+```
+
+What is the first argument of the `input()` function?
+
+---
+## 2026-10-29 11:31, in .
+
+**Me:** python 5.1_for_loops.py
+
+**Tutor:**
+
+Refused, off topic.
+
+---
+## 2026-10-29 11:32, in .
+
+**Me:** how can I add the lengths of each variable seperately
+
+**Tutor:**
+
+Adding the lengths of separate variables is called **concatenating lengths**.
+
+```python
+# TODO: Replace alpha, beta, gamma with your variables
+alpha = "hello"
+beta = "world"
+gamma = 42  # length of a number is not meaningful; use len(str(gamma)) if needed
+
+# TODO: Compute the length of each variable and add them
+total_length = len(alpha) + len(beta) + len(str(gamma))
+
+print(total_length)
+```
+
+What function returns the number of characters (or items) in a string or list?
