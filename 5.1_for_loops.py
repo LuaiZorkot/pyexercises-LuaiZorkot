@@ -35,9 +35,11 @@ names = ["Luai", "Bob", "Charlie", "David", "Eve", "Frank", "Grace", "Heidi"]
 
 print("List of names and their lengths:")
 
-for name in names:
-    length = len(name)
-    print(f"Name: {name}, Length: {length}")
+i = "Alice"
+
+for i in names:
+    length = len(i)
+    print("Name: ", i, "Length:" , length)
 
 
     
