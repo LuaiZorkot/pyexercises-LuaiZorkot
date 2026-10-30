@@ -221,3 +221,23 @@ shopping = ["milk", "eggs", "bread"]
 ```
 
 What list method puts a new item at the end?
+
+---
+## 2026-10-30 09:15, in .
+
+**Me:** how to list reverse sort with python
+
+**Tutor:**
+
+Sorting a list in reverse order.
+
+```python
+# TODO: replace the toy list with your data
+items = ["apple", "banana", "cherry"]
+
+# TODO: choose the right function and argument
+items.sort(  )   # what argument makes it reverse?
+print(items)
+```
+
+Which built-in list method sorts the list in place?
