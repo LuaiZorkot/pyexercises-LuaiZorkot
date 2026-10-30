@@ -26,10 +26,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. What my list is about, and what I computed from it:
+# 1. In:a list of ten numbers written directly in the code.
+# 2. Process:the program displays the list, picks one item by its position, sorts the list, and removes the last item.
+# 3. Out: the whole list, the item at position 3 (which is 7), the sorted list, and the list after the last item is removed.
+# 4. What my list is about, and what I computed from it:a list of practice numbers we built in class to try out list operations (indexing, sorting and pop()).
 
 
 # Your code below
