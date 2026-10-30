@@ -24,10 +24,10 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. What I compute for each item, and why it is worth showing:
+# 1. In: a list of eight names.
+# 2. Process: the loop goes through the names one by one and counts the number of letters in each with len().
+# 3. Out: one line per name showing the name and its length, so eight lines in total.
+# 4. What I compute for each item, and why it is worth showing: the length of each name. It is useful for checking whether a name fits in a field with a character limit, like a form, a username or a name badge.
 
 
 # Your code below
