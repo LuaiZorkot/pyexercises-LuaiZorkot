@@ -259,3 +259,37 @@ person = {"name": "alpha", "age": 25, "city": "Paris"}
 ```
 
 What method do you use to access a dictionary value by its key?
+
+---
+## 2026-10-30 09:29, in .
+
+**Me:** how loop a list with python
+
+**Tutor:**
+
+Looping over a list is called iteration.
+
+```python
+# TODO: loop over a list called my_list
+# TODO: print each item
+```
+
+What is the keyword used to start a loop over a list?
+
+---
+## 2026-10-30 09:31, in .
+
+**Me:** what does len(i) count with python
+
+**Tutor:**
+
+The `len()` function counts the number of items in a sequence.
+
+```python
+# TODO: replace the list with your data
+toy_list = ["apple", "banana", "cherry"]
+item_count = len(toy_list)
+print(item_count)  # prints 3
+```
+
+What does `len()` return for an empty list?
