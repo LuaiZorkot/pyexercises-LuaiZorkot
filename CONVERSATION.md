@@ -241,3 +241,21 @@ print(items)
 ```
 
 Which built-in list method sorts the list in place?
+
+---
+## 2026-10-30 09:19, in .
+
+**Me:** how do i change one value in my dictionary, like the city in python
+
+**Tutor:**
+
+Changing a value in a dictionary by its key.
+
+```python
+# Example dictionary
+person = {"name": "alpha", "age": 25, "city": "Paris"}
+
+# TODO: Change the value of the key "city" to "Lyon"
+```
+
+What method do you use to access a dictionary value by its key?
