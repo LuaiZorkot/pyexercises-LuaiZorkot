@@ -28,17 +28,17 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. My stop condition, my attempt limit, my summary:
+# 1. In: the user's answer to "Do you want to continue? (yes/no)", typed up to 5 times.
+# 2. Process: the loop cleans the answer with strip() and lower(), checks if it is yes or no, and counts the attempts.
+# 3. Out: a message after each answer, then a summary showing how many attempts were used.
+# 4. My stop condition, my attempt limit, my summary: the loop stops when the user answers yes or no (capitals and extra spaces are accepted because of strip() and lower()). The limit is 5 attempts, then the program stops with a message. The summary shows how many attempts were used.
 
 
 # Your code below
 
 from ast import While
 
-
+i=0
 while i < 5:
     print("attempt number:", i+1)
     i = i+1

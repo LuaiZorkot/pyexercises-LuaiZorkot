@@ -293,3 +293,24 @@ print(item_count)  # prints 3
 ```
 
 What does `len()` return for an empty list?
+
+---
+## 2026-10-30 09:43, in .
+
+**Me:** what does break do inside a while loop in python
+
+**Tutor:**
+
+A break statement exits the current while loop immediately, skipping any remaining iterations.
+
+```python
+count = 0
+while count < 5:
+    count += 1
+    if count == 3:
+        break   # TODO: what happens to the loop when count reaches 3?
+    print("Inside loop:", count)
+print("Loop finished")
+```
+
+What keyword stops the loop from running once it is executed?
