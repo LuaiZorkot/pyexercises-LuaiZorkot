@@ -52,8 +52,8 @@ list = [4, 5, 6, 7, 8, 9, 10, 11, 2, 1]
 print(list)
 print(list[3])
 
-sorted_list = sorted(list)
-print("Sorted list:", sorted_list)
+list.sort()
+print("Sorted List:", list)
 
 list.pop()
 print("List after popping last item:", list)

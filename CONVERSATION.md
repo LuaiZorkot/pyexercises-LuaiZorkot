@@ -77,7 +77,6 @@ print(upper_sentence)
 ```
 
 Question: Which string method converts a string to uppercase?
-Note from Luai: Struggled to write the code regarding the "without extra space" since I didn't know that I should add strip to it.
 
 ---
 ## 2026-10-29 16:51, in .
@@ -201,4 +200,24 @@ def grade(score):
 ```
 
 What does the first `elif` line check?
-Note from luai: if the number was 5000 writing 5000 lines would be a nightmare for the program. I capped it at 100. Also if a negative number is given, i found a small struggle to program how to determine negative numbers. I found the solution by programing it to count negative numbers like positive ones. So from 0 to -100 counting zero as an even number.
+
+
+---
+## 2026-10-30 09:02, in .
+
+**Me:** how to manipulate a list with python
+
+**Tutor:**
+
+Manipulating a list means changing its contents or order.
+
+```python
+# Example: add, remove, and reorder items
+shopping = ["milk", "eggs", "bread"]
+
+# TODO: append "apples" to the list
+# TODO: remove "eggs"
+# TODO: sort the list alphabetically
+```
+
+What list method puts a new item at the end?
